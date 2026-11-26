@@ -13,7 +13,8 @@ enableEmoji = true
 [params]
   author = "Xiao Zhang"
   description = "PhD Student | Cybersecurity and Graph Learning"
-  avatar = "https://xiao1coraline.github.io/avatar.jpg"
+  avatar = "img/avatar.jpg"
+  isSinglePage = true
 
 [[menus.main]]
   name = "Home"
