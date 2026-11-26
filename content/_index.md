@@ -3,9 +3,6 @@
 title: "Home"
 ---
 
-<img src="/static/avatar.jpg" alt="Xiao Zhang"
-     style="width:160px; height:160px; object-fit:cover; border-radius:50%;">
-
 # Hi there, I'm Xiao Zhang 👋
 
 I am a PhD student in the Department of Computer Science at Beijing University of Technology. I am currently a visiting PhD student at the University of Oxford under the supervision of Prof. Thomas Pasquier.
