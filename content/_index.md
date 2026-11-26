@@ -3,7 +3,7 @@
 title: "Home"
 ---
 
-<img src="/avatar.jpg" alt="Xiao Zhang"
+<img src="/static/avatar.jpg" alt="Xiao Zhang"
      style="width:160px; height:160px; object-fit:cover; border-radius:50%;">
 
 # Hi there, I'm Xiao Zhang 👋
