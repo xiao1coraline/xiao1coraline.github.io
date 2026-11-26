@@ -39,6 +39,8 @@ jobs:
           mkdir -p site/themes
           git clone --depth 1 https://github.com/nixentric/Lowkey-Hugo-Theme.git site/themes/lowkey
           cp -R site/themes/lowkey/ExampleSite/. site/
+          rm -rf site/content
+          mkdir -p site/content
 
       - name: Copy personal content
         run: |
