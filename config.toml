@@ -1,0 +1,33 @@
+
+baseURL = "https://xiao1coraline.github.io/"
+title = "Xiao Zhang"
+locale = "en-US"
+theme = "lowkey"
+
+enableRobotsTXT = true
+enableEmoji = true
+
+[pagination]
+  pagerSize = 5
+
+[params]
+  author = "Xiao Zhang"
+  description = "PhD Student | Cybersecurity and Graph Learning"
+
+[[menus.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menus.main]]
+  name = "Publications"
+  url = "/publications/"
+  weight = 2
+
+[[menus.main]]
+  name = "Education"
+  url = "/education/"
+  weight = 3
+
+[markup.goldmark.renderer]
+  unsafe = true
