@@ -55,6 +55,10 @@ jobs:
             cp config.toml site/hugo.toml
             rm -rf site/config
           fi
+          if [ -d assets ]; then
+            mkdir -p site/assets
+            cp -R assets/. site/assets/
+          fi
 
       - name: Install dependencies
         working-directory: site
