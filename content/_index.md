@@ -1,20 +1,14 @@
-
+<img src="/avatar.jpg" alt="Xiao Zhang"
+     style="width:160px; height:160px; object-fit:cover; border-radius:50%;">
 ---
 title: "Home"
 ---
 
 # Hi there, I'm Xiao Zhang 👋
 
-I am a PhD student at Beijing University of Technology (BJUT)
-and currently a visiting PhD student in the Department of
-Computer Science at the University of Oxford.
+I am a PHD student in the Department of Computer Science at Beijing University of Technology. Now I'm visiting the University of Oxford under the supervision of Prof. Thomas Pasquier.
 
-My research interests lie in cybersecurity, knowledge graphs,
-graph learning, and knowledge reasoning.
-
-My visiting research currently focuses on knowledge-enhanced
-provenance-based attack investigation, aiming to improve
-the accuracy and interpretability of attack reconstruction.
+My research interests lie in cybersecurity, knowledge graphs, and graph-based learning and reasoning, with a particular focus on industrial control system security, cyber threat intelligence, and advanced persistent threat (APT) analysis. My visiting research with Thomas currently focuses on integrating knowledge graphs with system provenance graphs to support attack investigation and reconstruction.
 
 ## Research Interests
 
